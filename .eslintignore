@@ -1,0 +1,8 @@
+node_modules/
+ios/
+android/
+coverage/
+__tests__/
+.expo/
+dist/
+.expo-shared/
